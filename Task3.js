@@ -32,6 +32,7 @@
 // }
 
 let angka = [1,3,2,4,0,1,4,5,2,3];
+
 angka.splice(4,1,);
 
 let angkalength = angka.sort((a,b) => a - b);
